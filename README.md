@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00804d&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+O+LEANDRO;Tenho+22+Anos;SOU+BAIANO;mas+moro+atualmente+no+interiror+de+SP;Graduando+em+Ciências+da+Computação;Sou+estudante+assiduo+da+Alura+e+da+DIO.me;Seja+muito+bem+vindos!+:%29)](https://git.io/typing-svg)
-
+&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zLeggi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
