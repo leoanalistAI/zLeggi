@@ -29,6 +29,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=20232A)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git&labelColor=20232A)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-20232A?style=for-the-badge&logo=github&labelColor=20232A)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-20232A?style=for-the-badge&logo=figma&labelColor=20232A)&nbsp;
+  
 ![Windows](https://img.shields.io/badge/-Windows-20232A?style=for-the-badge&logo=windows&labelColor=20232A)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-20232A?style=for-the-badge&logo=microsoft-office&labelColor=20232A)&nbsp;
  
@@ -37,8 +39,7 @@
 ![Python](https://img.shields.io/badge/-python-20232A?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=20232A)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-20232A?style=for-the-badge&logo=bootstrap&labelColor=20232A)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-20232A?style=for-the-badge&logo=mysql&labelColor=20232A)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-20232A?style=for-the-badge&logo=figma&labelColor=20232A)&nbsp;
-  
+
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-20232A?style=for-the-badge&logo=node.js&labelColor=20232A&textColor=20232A)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react&labelColor=20232A)&nbsp;
