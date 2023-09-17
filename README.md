@@ -16,8 +16,16 @@
 
 &nbsp;&nbsp;
 
+
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zLeggi&bg_color=20232A&color=97F8F8&line=97F8F8&point=97F8F8&area=true&area_color=C2FFFF&hide_border=true" alt="zLeggi's github activity graph">
+</p>
+
+&nbsp;
+
 <div align="center">  
-<a href="[https://www.instagram.com/mthalvarez_/](https://www.linkedin.com/in/zleandroalmeida/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="[https://www.linkedin/in/zLeandroalmeida/](https://www.linkedin.com/in/zleandroalmeida/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  
 ### Main skills:
